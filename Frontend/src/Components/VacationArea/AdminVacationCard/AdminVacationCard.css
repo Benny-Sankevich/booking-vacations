@@ -1,0 +1,15 @@
+.AdminVacationCard{
+    width: 300px;
+    margin: 10px;
+    padding-left: 5px;
+    text-align: left;
+    display: inline-flex;
+    align-items: center;
+}
+.Header{
+    text-align: center;
+}
+.FollowsNumber{
+    position: relative;
+    right: 40px;
+}

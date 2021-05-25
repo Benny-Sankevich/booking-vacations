@@ -1,0 +1,11 @@
+.FollowsVacationsCard {
+    margin: 10px;
+    padding-left: 5px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.followsNumber {
+    position: relative;
+    right: 40px;
+}

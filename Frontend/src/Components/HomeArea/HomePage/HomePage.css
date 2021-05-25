@@ -1,0 +1,18 @@
+.HomePage> img {
+    width: 200px;
+    height: 180px;
+}
+
+.HomePage h1 {
+    text-decoration: underline;
+}
+
+.HomePage {
+    font-size: x-large;
+    color: blue;
+    font-style: normal;
+}
+
+.Linkedin * {
+    color: blue;
+}

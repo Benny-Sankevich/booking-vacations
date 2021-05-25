@@ -1,0 +1,16 @@
+.Vacations {
+    height: 620px;
+    overflow: auto;
+}
+
+.Vacations > .New{
+    position: fixed;
+    top: 16px;
+    left: 400px;
+    color: white;
+}
+.Vacations div{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
