@@ -1,4 +1,8 @@
-manage user
+Full Stack | Using lately Program language Frontend: React.js TS, Backend Node.js, Database SQL.
+
+Login properties:
+
+manager
 Username: admin
 Password:pass4admin$
 
